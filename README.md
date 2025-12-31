@@ -18,12 +18,5 @@ A festive New Year 2026 web story with a countdown timer, animated stars, intera
 
 You can view the live demo by opening the [Aesthetic_New_Year_Card_2026](https://codepen.io/maheerCodes/full/ZYObzMw) link in a browser.
 
----
-
-## 🛠️ Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/happy-new-year-2026.git
 
 
