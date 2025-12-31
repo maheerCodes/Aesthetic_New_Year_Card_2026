@@ -9,7 +9,7 @@ A festive New Year 2026 web story with a countdown timer, animated stars, intera
 - **Countdown Timer**: Counts down to January 1, 2026.
 - **Animated Stars**: Background stars twinkle and fall.
 - **Fireworks Animation**: Automatic and click-triggered fireworks with optional sound.
-- **Save Story**: Capture the screen and download it as a PNG image.
+- **Screenshot**: Capture the screen and download it as a PNG image.
 - **Responsive Design**: Works on both desktop and mobile screens.
 
 ---
@@ -17,6 +17,7 @@ A festive New Year 2026 web story with a countdown timer, animated stars, intera
 ## 🖥️ Demo
 
 You can view the live demo by opening the [Aesthetic_New_Year_Card_2026](https://codepen.io/maheerCodes/full/ZYObzMw) link in a browser.
+
 
 
 
